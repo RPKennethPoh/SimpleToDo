@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SimpleToDo</string>
+    <string name="taskHint">Enter a new task here</string>
+    <string name="indexHint">Enter an existing task index here</string>
+    <string name="add">Add Task</string>
+    <string name="delete">Delete Task</string>
+    <string name="clear">Clear List</string>
+    <string name="complete">Complete Task</string>
+    <string name="title">Task Tracker</string>
+</resources>
